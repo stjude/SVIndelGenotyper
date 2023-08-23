@@ -46,7 +46,7 @@
 
 
 ### Installation
-SVIndelGenotyper depends on [python>=3.9.9](https://www.python.org/downloads/)
+SVIndelGenotyper depends on [python >= 3.9.9](https://www.python.org/downloads/)
 
 ```
 > git clone https://github.com/stjude/SVIndelGenotyper.git
@@ -54,7 +54,7 @@ SVIndelGenotyper depends on [python>=3.9.9](https://www.python.org/downloads/)
 > ./make_install.sh
 ```
 
-## Usage 
+### Usage 
 SVIndelGenotyper has 2 subcommands:
 * ```indel``` genotype indels for sequencing data (WGS/WES/RNASeq)
 * ```sv``` genotype SVs for sequencing data (WGS)
@@ -64,16 +64,19 @@ SVIndelGenotyper has 2 subcommands:
 > python SVIndelGenotyper.py sv testSV.tsv
 ```
 
-### Contact
+## Publication
+Manuscript under preparation
+
+## Contact
 * Yanling.Liu[AT]stjude.org
 * Pandurang.Kolekar[AT]stjude.org
 * Xiaotu.Ma[AT]stjude.org
 
 ---
-#### COPYRIGHT 
+## COPYRIGHT 
 Copyright 2023 St. Jude Children's Research Hospital
 
-#### LICENSE
+## LICENSE
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
