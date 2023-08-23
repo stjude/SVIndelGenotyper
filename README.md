@@ -60,12 +60,12 @@ SVIndelGenotyper has 2 subcommands:
 * ```sv``` genotype SVs for sequencing data (WGS)
 
 ```
-> module load python/3.9.9
 > python SVIndelGenotyper.py indel testIndel.tsv
 > python SVIndelGenotyper.py sv testSV.tsv
 ```
 
 ### Contact
+* Yanling.Liu[AT]stjude.org
 * Pandurang.Kolekar[AT]stjude.org
 * Xiaotu.Ma[AT]stjude.org
 
