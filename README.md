@@ -19,7 +19,7 @@
    </a>
    <a href="https://github.com/stjude/SVIndelGenotyper/blob/main/LICENSE" target="_blank">
      <img alt="License: Apache-2.0"
-          src="https://img.shields.io/github/license/saltstack/salt" />
+          src="https://img.shields.io/badge/License-Apache2.0-blue.svg" />
    </a>
   </p>
 
