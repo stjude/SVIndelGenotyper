@@ -2,7 +2,7 @@ mkdir tool
 mkdir reference
 
 # Download blast from ncbi
-wget https://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/ncbi-blast-2.14.0+-x64-linux.tar.gz -P tool/
+wget https://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/ncbi-blast-2.14.1+-x64-linux.tar.gz -P tool/
 
 # Install blastn
 cd tool
